@@ -1,5 +1,5 @@
-<center><img src="https://dribbble.com/shots/11102426-Quarantine-day-1264729?utm_source=Clipboard_Shot&utm_campaign=catalystvibes&utm_content=Quarantine%20day%201264729......%F0%9F%A7%94&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=catalystvibes&utm_content=Quarantine%20day%201264729......%F0%9F%A7%94&utm_medium=Social_Share.img" height = "" width="" align="create"></center>
-<h1 align="center">Hi 👋, I'm Gowsikkan S</h1>
+[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://khushboogoel01.github.io)
+<h1 align="center">Hi 👋, I'm Gowsikkan </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowsikkan&label=Profile%20views&color=0e75b6&style=flat" alt="gowsikkan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowsikkan" alt="gowsikkan" /></a> </p>
