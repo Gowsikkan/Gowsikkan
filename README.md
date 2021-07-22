@@ -1,4 +1,7 @@
 [![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://khushboogoel01.github.io)
+[![MasterHead](https://images.app.goo.gl/3Gu8A5eCvFKMkn9c6)](https://khushboogoel01.github.io)
+
+
 <h1 align="center">Hi 👋, I'm Gowsikkan </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowsikkan&label=Profile%20views&color=0e75b6&style=flat" alt="gowsikkan" /> </p>
 
