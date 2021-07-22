@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/Nju3bg6rQFUthvCB9)](https://khushboogoel01.github.io)
+[![MasterHead](https://images.app.goo.gl/mwBmGPaKKtWDousG6)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Gowsikkan S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowsikkan&label=Profile%20views&color=0e75b6&style=flat" alt="gowsikkan" /> </p>
 
