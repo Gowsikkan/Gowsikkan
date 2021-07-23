@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/3Gu8A5eCvFKMkn9c6)](https://khushboogoel01.github.io)
+[![MasterHead](https://images.app.goo.gl/yT26NWsZtxq9ZZry7)](https://khushboogoel01.github.io)
 
 
 <h1 align="center">Hi 👋, I'm Gowsikkan </h1>
