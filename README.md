@@ -1,5 +1,4 @@
-<center><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fclassroomclipart.com%2Fimages%2Fgallery%2FAnimations%2FComputers%2Fman-using-computer-keyboard-2-animated.gif&imgrefurl=https%3A%2F%2Fclassroomclipart.com%2Fclipart%2FAnimations%2FComputers.htm&tbnid=mb5jcXKONsG_gM&vet=12ahUKEwi5p4KowIDyAhVVR3wKHbqrDtQQMyg-egQIARBh..i&docid=z-O2A_7cTkXIeM&w=400&h=340&q=working%20with%20laptop%20gif&hl=en&ved=2ahUKEwi5p4KowIDyAhVVR3wKHbqrDtQQMyg-egQIARBh" height = "" width="" align="create"></center>
-
+![working](https://user-images.githubusercontent.com/66643168/126974663-5b9d2832-500c-42e5-b638-699c809dc713.gif)
 
 <h1 align="center">Hi 👋, I'm Gowsikkan </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowsikkan&label=Profile%20views&color=0e75b6&style=flat" alt="gowsikkan" /> </p>
