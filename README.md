@@ -1,4 +1,4 @@
-<center><img src="https://images.app.goo.gl/3spLeW2HTveBuG119.gif" height = "" width="" align="create"></center>
+<center><img src="https://images.app.goo.gl/3spLeW2HTveBuG119" height = "" width="" align="create"></center>
 
 
 <h1 align="center">Hi 👋, I'm Gowsikkan </h1>
