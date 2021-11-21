@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/gowsikkans" target="blank"><img src="https://img.shields.io/twitter/follow/gowsikkans?logo=twitter&style=for-the-badge" alt="gowsikkans" /></a> </p>
 
-- 🔭 I’m currently working on **Audio Classification**
+- 🔭 I’m currently working on **Convolution Neural Network**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 🤝 I’m looking for help with **explaining Recurrent Neural Network(RNN)**
+- 🤝 I’m looking for help with **Explaining Recurrent Neural Network(RNN)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gowsikkan](https://github.com/Gowsikkan)
 
@@ -20,8 +20,6 @@
 - 📫 How to reach me **gowsikkan.s2001@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Gowsikkan/Resume.git](https://github.com/Gowsikkan/Resume.git)
-
-- ⚡ Fun fact **Things I do for Love ❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
