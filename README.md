@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gowsikkan](https://github.com/Gowsikkan)
 
-- 📝 I regularly write articles on [https://medium.com/@gowsikkan.s2001](https://medium.com/@gowsikkan.s2001)
+- 📝 I occasionally write articles on [https://medium.com/@gowsikkan.s2001](https://medium.com/@gowsikkan.s2001)
 
 - 📫 How to reach me **gowsikkan.s2001@gmail.com**
 
