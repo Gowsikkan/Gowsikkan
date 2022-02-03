@@ -42,6 +42,7 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Gowsikkan&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikkan&theme=react&layout=compact" />
+  <img height= "150" src="https://activity-graph.herokuapp.com/graph?username=Gowsikkan&theme=react&layout=compact" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowsikkan&&theme=react&layout=compact"" alt="gowsikkan" /></p>
