@@ -40,5 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowsikkan&" alt="gowsikkan" /></p>
 
-![working](https://user-images.githubusercontent.com/66643168/126974663-5b9d2832-500c-42e5-b638-699c809dc713.gif)
 
