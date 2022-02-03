@@ -39,4 +39,4 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowsikkan&theme=react&layout=compact" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowsikkan&" alt="gowsikkan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowsikkan&&theme=react&layout=compact"" alt="gowsikkan" /></p>
