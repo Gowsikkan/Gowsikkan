@@ -1,4 +1,3 @@
-![working](https://user-images.githubusercontent.com/66643168/126974663-5b9d2832-500c-42e5-b638-699c809dc713.gif)
 
 <h1 align="center">Hi 👋, I'm Gowsikkan </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowsikkan&label=Profile%20views&color=0e75b6&style=flat" alt="gowsikkan" /> </p>
@@ -40,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowsikkan&show_icons=true&locale=en" alt="gowsikkan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowsikkan&" alt="gowsikkan" /></p>
+
+![working](https://user-images.githubusercontent.com/66643168/126974663-5b9d2832-500c-42e5-b638-699c809dc713.gif)
+
