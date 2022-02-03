@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gowsikkan </h1>
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/66643168/126974663-5b9d2832-500c-42e5-b638-699c809dc713.gif" height="230"/>
+  <img src="https://user-images.githubusercontent.com/66643168/126974663-5b9d2832-500c-42e5-b638-699c809dc713.gif" height="230"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowsikkan&label=Profile%20views&color=0e75b6&style=flat" alt="gowsikkan" /> </p>
